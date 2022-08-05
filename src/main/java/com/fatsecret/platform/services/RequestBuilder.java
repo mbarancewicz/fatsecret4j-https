@@ -42,9 +42,9 @@ public class RequestBuilder {
 	/**
 	 * Request URL
 	 * <p>
-	 * The URL to make API calls is http://platform.fatsecret.com/rest/server.api
+	 * The URL to make API calls is https://platform.fatsecret.com/rest/server.api
 	 */
-	final private String APP_URL = "http://platform.fatsecret.com/rest/server.api";
+	final private String APP_URL = "https://platform.fatsecret.com/rest/server.api";
 
 	/**
 	 * The signature method allowed by FatSecret API
